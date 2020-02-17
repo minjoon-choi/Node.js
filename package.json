@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node.js project",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minjoon-choi/Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minjoon-choi/Node.js/issues"
+  },
+  "homepage": "https://github.com/minjoon-choi/Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sanitize-html": "^1.21.1"
+  }
+}
